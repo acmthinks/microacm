@@ -4,16 +4,16 @@
   "description": "my first microservice",
   "main": "server.js",
   "scripts": {
-  "test": ""
+    "start": "node server.js"
   },
-  “repository”: {
-    “type”: “git”,
-    “url”: “https://github.com/acmthinks/microacm.git”
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/acmthinks/microacm.git"
   },
-  “dependencies”: {
-    “body-parser”: “^1.16.1”,
-    “cfenv”: “^1.0.x”,
-    “express”: “^4.14.1”,
+  "dependencies": {
+    "body-parser": "^1.16.1",
+    "cfenv": "^1.0.x",
+    "express": "^4.14.1"
   },
   "keywords": [
     "micoservices",
